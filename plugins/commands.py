@@ -43,7 +43,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton(text = '🔥 Search Here 🔥', switch_inline_query_current_chat = '')
             ],[
-            InlineKeyboardButton('💠 Ꮐᝪ ᏆᑎᏞᏆᑎᗴ 💠', url='https://t.me/InlineSearch_MovieBot'),
+            InlineKeyboardButton('💠 ᑕᕼᗩᑎᑎᗴᏞ 💠', url='https://t.me/+7bH_ys-DGKVkZjA1'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+plmG4aUd4Gw4MGE1')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -51,10 +51,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔥 ᏞᏆᑎᏦ ᏀᗴᑎᗴᖇᗩᎢᝪᖇ 🔥', url='https://t.me/File_To_Link_Autobot')
             ],[
-            InlineKeyboardButton(' ꜰᴀᴄᴇʙᴏᴏᴋ ', url='https://www.facebook.com/badsha.shek.944'),
-            InlineKeyboardButton(' ɪɴsᴛᴀɢʀᴀᴍ ', url='https://www.instagram.com/badsha.shek.944')
+            InlineKeyboardButton(' ᗰᝪᐯᏆᗴ ᗯᗴᗷᔑᏆᎢᗴ ', url='https://apexmoviesworld.blogspot.com')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCFjqpS7MmN42sybrG0Vr0NQ')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UC-z-4Ykzqtw0gs70DsTqlew')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
@@ -97,7 +96,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton(text = '🔥 Search Here 🔥', switch_inline_query_current_chat = '')
             ],[
-            InlineKeyboardButton('💠 Ꮐᝪ ᏆᑎᏞᏆᑎᗴ 💠', url='https://t.me/InlineSearch_MovieBot'),
+            InlineKeyboardButton('💠 ᑕᕼᗩᑎᑎᗴᏞ 💠', url='https://t.me/+7bH_ys-DGKVkZjA1'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+plmG4aUd4Gw4MGE1')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
@@ -105,10 +104,9 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔥 ᏞᏆᑎᏦ ᏀᗴᑎᗴᖇᗩᎢᝪᖇ 🔥', url='https://t.me/File_To_Link_Autobot')
             ],[
-            InlineKeyboardButton(' ꜰᴀᴄᴇʙᴏᴏᴋ ', url='https://www.facebook.com/badsha.shek.944'),
-            InlineKeyboardButton(' ɪɴsᴛᴀɢʀᴀᴍ ', url='https://www.instagram.com/badsha.shek.944')
+            InlineKeyboardButton(' ᗰᝪᐯᏆᗴ ᗯᗴᗷᔑᏆᎢᗴ ', url='https://apexmoviesworld.blogspot.com')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCFjqpS7MmN42sybrG0Vr0NQ')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UC-z-4Ykzqtw0gs70DsTqlew')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
